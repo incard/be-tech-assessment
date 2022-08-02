@@ -16,5 +16,5 @@ Please organize, design, test, document and deploy your code as if it were going
 
 You are also free to use any web framework. If you choose to use a framework that results in boilerplate code in the repository, please detail in your README which code was written by you (as opposed to generated code).
 
-
+When you’re done, host it somewhere (e.g. on AWS, Heroku, GCP, etc.).
 
